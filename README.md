@@ -6,4 +6,5 @@ Repository to practice git
 --created a new branch and added files
 --merged the branch with master
 --pushed local repository to github
+--created a file on remote and pulled it into local repo
 
